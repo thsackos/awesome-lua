@@ -79,7 +79,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
     - [golua](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
 - [Java](https://www.java.com/en/)
     - [luajava](https://github.com/gudzpoz/luajava) - Java bindings to the Lua C API.
-- [Rust]()
+- [Rust](https://www.rust-lang.org/)
     - [mlua](https://github.com/mlua-rs/mlua) - Rust bindings to the Lua C API.
 - [Zig](https://ziglang.org/)
     - [zig-luajit](https://github.com/sackosoft/zig-luajit) - Zig bindings to the LuaJIT C API.
